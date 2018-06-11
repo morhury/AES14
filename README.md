@@ -30,7 +30,7 @@ Please read [CONTRIBUTING.md](https://github.com/leprekon91/AES14/blob/master/CO
 * **Andrey Grabarnick** - *Developer*
 * **Alex Pitchorski** - *Developer*
 * **Carmela Rotzaid** - *Developer*
-* **Mor Huri** - *programmer*
+* **Mor Huri** - *Database Development*
 
 See also the list of [contributors](https://github.com/leprekon91/AES14/contributors) who participated in this project.
 
